@@ -1,0 +1,24 @@
+
+.cardetails{
+    background-color: orange;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 50px;
+    border: 1px solid black;
+    align-items: center;
+}
+
+.car_p{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 5px;
+
+}
+.car_p:hover{
+    background-color: red;
+}
